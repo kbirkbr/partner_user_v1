@@ -8,13 +8,13 @@
     'description': """
         Long description of module's purpose
     """,
-    # 'license': 'Odoo Proprietary License v1.0',
+    'license': 'AGPL-3',
     'author': "KABEER KB",
     'website': "",
     'category': 'base',
     'version': '0.1',
-    'price':8,
-    'currency':'EUR',
+    #'price':8,
+    #'currency':'EUR',
 
     # any module necessary for this one to work correctly
     'depends': ['base'],
